@@ -65,6 +65,8 @@ block7 = new Block(670,375,30,40);
 
 	text("Drag the Hexagonal Stone and Release it, to launch it towards the block",100,50);
     
+    textSize(20);
+    text("Press Space to get a second chance to play !!",900,600)
     
         ground1.display();
         ground2.display();
